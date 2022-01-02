@@ -1,7 +1,8 @@
 # askforastro
 
 A new Flutter project.
-Web URL(https://flutter-web-4afba.web.app)
+- [Web app](https://flutter-web-4afba.web.app)
+
 
 ## Getting Started
 
